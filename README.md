@@ -6,7 +6,7 @@ I'm a full stack developer...
 
 # Food Delivery Application
 
-This is a Spring Boot application for a food delivery service. It allows users to order food from various restaurants and have it delivered to their location. The application is built using Java, Spring Boot, and various other technologies.
+This is a Spring Boot application for a food delivery service. It allows users to order food from various restaurants and have it delivered to their location. The application is built using Java, Spring Boot,mysql,aws,maven and various other technologies.
 
 
 ## Require  Tools or IDE
